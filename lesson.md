@@ -12,6 +12,8 @@
 
 This lesson introduces the various data encoding formats and modes of data flow. You will be able to encode and decode data in various formats and exchange data via RPC.
 
+[Click here for the overview](https://su-ntu-ctp.github.io/5m-data-2.3-data-encoding-creation-flow/)
+
 ---
 
 ## Part 1 - Data Encoding Formats
